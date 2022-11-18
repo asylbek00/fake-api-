@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-api-/static/css/main.964fdded.css",
+    "main.js": "/fake-api-/static/js/main.3b6bd05b.js",
+    "index.html": "/fake-api-/index.html",
+    "main.964fdded.css.map": "/fake-api-/static/css/main.964fdded.css.map",
+    "main.3b6bd05b.js.map": "/fake-api-/static/js/main.3b6bd05b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.3b6bd05b.js"
+  ]
+}
